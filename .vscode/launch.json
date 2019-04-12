@@ -1,0 +1,104 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "cours",
+            "program": "${workspaceFolder}/cours-02/cours.js"
+        },
+    {
+        "type": "node",
+        "request": "launch",
+        "name": "contact",
+        "program": "${workspaceFolder}/activite_2/js/contacts.js"
+    },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "comptes bancaires",
+            "program": "${workspaceFolder}/comptes.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "inventaire",
+            "program": "${workspaceFolder}/inventaire.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "dog",
+            "program": "${workspaceFolder}/dog.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "littleGame",
+            "program": "${workspaceFolder}/littleGame.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "palindrome",
+            "program": "${workspaceFolder}/palindrome.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "leet",
+            "program": "${workspaceFolder}/leet.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "string",
+            "program": "${workspaceFolder}/string.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "tableaux",
+            "program": "${workspaceFolder}/tableaux.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "objects",
+            "program": "${workspaceFolder}/objects.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "functions predefinies",
+            "program": "${workspaceFolder}/functions-predefinies.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "function",
+            "program": "${workspaceFolder}/function.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "while",
+            "program": "${workspaceFolder}/while.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "test",
+            "program": "${workspaceFolder}/test.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "elseif",
+            "program": "${workspaceFolder}/elseif.js"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+const saisie = prompt("Entrez un nombre : "); // saisie est de type chaîne
+const nb = Number(saisie); // nb est de type nombre
+const nb = Number(prompt("Entrez un nombre : ")); // nb est de type nombre
+console.log(nb);
+
+const temp1 = 36.9;
+const temp2 = 37.6;
+const temp3 = 37.1;
+console.log(temp1, temp2, temp3); // "36.9 37.6 37.1"
+
+Mots reserves : https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s
+
+
+
+
+
+
+
+                                                Opérateur - Signification
+    ===     Egal à
+    !==     Différent de
+    <       Inférieur à
+    <=      Inférieur ou égal à
+    >       Supérieur à
+    >=      Supérieur ou égal à
+
+    \n : passer à la ligne 
+
+
+console.log(Math.min(4.5, 5)); // 4.5
+console.log(Math.min(19, 9));  // 9
+console.log(Math.min(1, 1));   // 1
+
+console.log(Math.random()); // Un nombre aléatoire entre 0 et 1
