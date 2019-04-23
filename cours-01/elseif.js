@@ -34,7 +34,7 @@ if ((nombre < 0) || (nombre > 100)) {
     console.log(nombre + " est en dehors de l'intervalle [0, 100]");
 }
 
-if (!(nombre > 100)) {
+if (!(nombre >= 100)) {
     console.log(nombre + " est inférieur ou égal à 100");
   }
 

@@ -1,14 +1,14 @@
 
 
-/* // L'opération de création d'une fonction s'appelle la déclaration. Voici sa syntaxe. 
+// L'opération de création d'une fonction s'appelle la déclaration. Voici sa syntaxe. 
 // Déclaration d'une fonction nommée maFonction
 function maFonction() {
     console.log("Function");  // Instructions de la fonction
   }
-  console.log("Début du programme");
-  maFonction();  //Appel d'une fonction
-  console.log("Fin du programme");   
- */
+console.log("Début du programme");
+maFonction();  //Appel d'une fonction
+console.log("Fin du programme");   
+ 
 
 // Déclaration d'une fonction nommée maFonction
  function myFunction() {
